@@ -67,5 +67,5 @@ Nascida em 2016 no quarto dos fundos da casa da minha vó como um sonho de um di
 
 <h2><strong>Entre em contato:</strong></h2>
 <a href="mailto:a23comunicacoes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://api.whatsapp.com/send?phone=5584992271316"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://api.whatsapp.com/send?phone=554187198546"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
