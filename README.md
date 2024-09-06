@@ -1,8 +1,8 @@
 <h2><img src="https://cdn-icons-png.flaticon.com/512/9131/9131529.png" width="20px"><strong> Sobre mim:</strong></h2>
 
-Sou Formado em Técnico em T.I. e com mais de 4 anos de experiência em programação e tecnologia da informação como desenvolvedor independente com uma pequena empresa de desenvolvimento de sistemas e marketing (A23 Comunicações).
+Sou Formado em Técnico em T.I. e com mais de 10 anos de experiência em programação e tecnologia da informação como desenvolvedor independente com uma pequena empresa de desenvolvimento de sistemas e marketing (A23 Comunicações).
 
-Com amplo conhecimento em programação, com especialidade em PHP puro e também em frameworks como Lavarel, CodeIgniter, WordPress entre outros. Também tenho especialidade em JavaScript, com conhecimento avançado em Vue.js, Node.js (NPM), JQuery e TypeScript. Me aventuro em Python com foco em Machine Learning e I.A e C#/C++ voltados a jogos com Unreal Engine.
+Com amplo conhecimento em programação, com especialidade em PHP puro e também em frameworks como Lavarel, CodeIgniter, WordPress entre outros. Também tenho especialidade em JavaScript, com conhecimento avançado em Vue.js, Node.js, JQuery e TypeScript. Me aventuro em Python com foco em Machine Learning e I.A e C#/C++ voltados a jogos com Unreal Engine.
 
 Também com alguns anos de experiência em Design Gráfico e Social Media com conhecimento em pacote Adobe (Photoshop, Illustrator, Premiere e After Effects).
 
