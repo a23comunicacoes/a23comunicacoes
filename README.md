@@ -60,7 +60,6 @@ Nascida em 2016 no quarto dos fundos da casa da minha vó como um sonho de um di
 <h2><strong>📊 GitHub Stats:</strong></h2>
 <div style="display: flex;">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a23comunicacoes">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a23comunicacoes">
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=a23comunicacoes&label=Profile%20Views&color=4&pretty=true" />
 </a>
