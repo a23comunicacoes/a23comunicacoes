@@ -8,11 +8,11 @@ Também com alguns anos de experiência em Design Gráfico e Social Media com co
 
 Sou freelancer, mas procuro trabalho em home office.
 
-<h2><img src="https://a23comunicacoes.online/wp-content/uploads/2023/04/A23-COMUNICACOES-011.svg" height="22px"><strong> Sobre a A23 Comunicações:</strong></h2>
+<h2><img src="https://lh6.googleusercontent.com/-B_Jaco_GdGc/AAAAAAAAAAI/AAAAAAAAAAA/Fw5AOo87uyk/s36-k-cc-mo/photo.jpg" height="22px"><strong> Sobre a A23 Comunicações:</strong></h2>
 
 A A23 Comunicações nasceu com a intenção de ser uma Eugência (Agência que somente tem eu de funcionário kkk). É minha pequena empresa de desenvolvimento de sistemas, de desenvolvimento de sites e marketing digital/social media.
 
-Nascida em 2016 no quarto dos fundos da casa da minha vó como um sonho de um dia ser reconhecido. Hoje já estamos a 6 anos no mercado de freelancer desenvolvendo sites e sistemas.
+Nascida em 2016 no quarto dos fundos da casa da minha vó como um sonho de um dia ser reconhecido. Hoje já estamos a 8 anos no mercado de freelancer desenvolvendo sites e sistemas.
 
 <h2><strong>🌐 Redes Sociais:</strong></h2>
 
