@@ -1,12 +1,16 @@
 <h2><img src="https://cdn-icons-png.flaticon.com/512/9131/9131529.png" width="20px"><strong> Sobre mim:</strong></h2>
 
-Sou Formado em Técnico em T.I. e com mais de 10 anos de experiência em programação e tecnologia da informação como desenvolvedor independente com uma pequena empresa de desenvolvimento de sistemas e marketing (A23 Comunicações).
+Desenvolvedor Full Stack com mais de 10 anos de experiência na construção de aplicações web robustas, APIs e sistemas backend. Fundador da A23 Comunicações, entregando soluções de software personalizadas para clientes de diversos setores.
 
-Com amplo conhecimento em programação, com especialidade em PHP puro e também em frameworks como Lavarel, CodeIgniter, WordPress entre outros. Também tenho especialidade em JavaScript, com conhecimento avançado em Vue.js, Node.js, JQuery e TypeScript. Me aventuro em Python com foco em Machine Learning e I.A e C#/C++ voltados a jogos com Unreal Engine.
+Possuo forte expertise em desenvolvimento backend com NodeJS, PHP (Laravel, CodeIgniter) e tecnologias frontend modernas como VueJS (Composition API), ReactJS e React Native. Também tenho sólidos conhecimentos em C# para desenvolvimento de aplicações e automações, além de Python, com foco em scripts, automações e experimentos com Machine Learning.
 
-Também com alguns anos de experiência em Design Gráfico e Social Media com conhecimento em pacote Adobe (Photoshop, Illustrator, Premiere e After Effects).
+Ampla experiência na construção de APIs escaláveis, sistemas web, soluções de automação, gestão de bancos de dados (MySQL, PostgreSQL) e na implantação e manutenção de ambientes Linux/Apache.
 
-Sou freelancer, mas procuro trabalho em home office.
+Atualmente, estou em busca de oportunidades de trabalho remoto internacional, onde eu possa contribuir com minhas habilidades e continuar crescendo em um ambiente global e de alta performance.
+
+🛠️ Tecnologias principais: Node.js, PHP, Laravel, Vue 3 (Composition API), MySQL, TypeScript, C# e Python.
+
+🌍 Inglês intermediário, com proficiência para discussões técnicas, reuniões e colaboração com equipes internacionais. Disponível para trabalho remoto ou relocação internacional.
 
 <h2><img src="https://lh6.googleusercontent.com/-B_Jaco_GdGc/AAAAAAAAAAI/AAAAAAAAAAA/Fw5AOo87uyk/s36-k-cc-mo/photo.jpg" height="22px"><strong> Sobre a A23 Comunicações:</strong></h2>
 
